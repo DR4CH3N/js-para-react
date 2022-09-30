@@ -9,6 +9,12 @@
 - operador ... (spread ou rest)
     - spread (espalhar): usado para dividir elementos de um array ou propriedades de um objeto
     - rest (resto/sobra/residuo): usado para mesclar uma lista de parametros de função como um array 
+- metodos/funções para array
+    - map
+    - filter
+    - reduce
+- async/await (sintaxe para comunicação assincrona [ajax])
+
 
 ## sites uteis
 - https://www.w3schools.com/js/js_versions.asp
